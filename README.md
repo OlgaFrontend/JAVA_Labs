@@ -1,2 +1,2 @@
 # JAVA_Labs
-CМиТРПЗ JAVA-Labs
+Subject KPI University CМиТРПЗ JAVA-Labs
